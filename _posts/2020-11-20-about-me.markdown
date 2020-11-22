@@ -1,0 +1,15 @@
+---
+title:  "About Me"
+subtitle: "A brief introduction"
+author: "Marta"
+avatar: "img/authors/marta.jpg"
+image: "img/authors/marta.jpg"
+date:   2020-11-20 12:12:12
+---
+
+### Hiya, I'm a local artist and an illustrator
+We currently live in Staffordshire. We moved here just over 10 years ago. 
+
+I was interested in outdoors and nature from a very young age. Both of my parents studied Biology (one zoology and the other one botanics). I loved spending time with my dad, walking, looking under stones, spotting little animals and learning all the plant names. I always loved drawing but ended up studying computer science. Only after the birth of my son 6 years ago I decided to give it a go. Our family includes 4 humans and 3 pets.
+
+Over the years we had various animals inlcuding fish, ferrets, cats and dogs. Currently our pet companions inlcude a miniature schnauzer called Dallas (after Dallas Cowboys American football team 🏈). She's loud but super kind, loving and cuddly. The whole family adores her. (I was mad enough to drive to Cambridge for her.) We also have 2 cats. A 13 year old, adopted Maine Coon Salem and a baby black Persian cross. 
